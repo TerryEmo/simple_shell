@@ -18,5 +18,4 @@ char *_getpath(char *command);
 unsigned int check_delim(char c, const char *delim);
 char *_strtok(char *str, const char *delim);
 
-#endif 
-
+#endif
