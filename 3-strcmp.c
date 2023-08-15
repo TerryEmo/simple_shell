@@ -7,7 +7,7 @@
  * @s2: Second string
  *
  * Return: Integer value
- */
+*/
 
 int _strcmp(char *s1, char *s2)
 {
