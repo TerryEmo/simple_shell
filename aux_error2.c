@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 
 /**
  * error_env - error report for the env in get_env.
