@@ -3,6 +3,7 @@
 # See generate authors to make modifications.
 
 Shadrack Awuor
-ShadrackAwuor <shadrackolungo@gmail.com>
+ShadrackAwuor <Dintoz254@gmail.com>
+
 Terrance Ndlangamandla
 TerranceNdlangamandla <terrance.sabelo@gmail.com>
